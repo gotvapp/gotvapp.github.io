@@ -11,20 +11,22 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "HOME"
+      url: https://www.gotv.shop
+    - title: "Product"
       section: services
-    - title: "Portfolio"
+    - title: "Price"
       section: portfolio
     - title: "About"
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "Free Trial"
       section: team
+    - title: "Download"
+      section: clients
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
