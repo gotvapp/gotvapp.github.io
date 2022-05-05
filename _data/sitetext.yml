@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         desc: "Android，iOS(iPhone & iPad)，Windows PC and Mac OS all supported"
         icon: fas fa-laptop
       - title: "7 Days free trial"
-        desc: "We provide 7 dyas free trial"
+        desc: "We provide 7 days free trial"
         icon: fab fa-markdown
 
   portfolio:
@@ -109,10 +109,10 @@ en: &DEFAULT_EN
     subtext: No upfront fee, Customer satisfaction guaranteed.
     section: team
     people:
-      - name: "WeChat 1"
+      - name: "WeChat: GOIPTV"
         role: ""
         image: assets/img/team/1.jpg
-      - name: "WeChat 2"
+      - name: "WeChat: GOTVCHINA"
         role: ""
         image: assets/img/team/2.jpg
 
