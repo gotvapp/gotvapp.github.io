@@ -14,19 +14,21 @@ en: &DEFAULT_EN
     - title: "HOME"
       url: https://www.gotv.shop
     - title: "Product"
-      section: services
+      url: https://www.gotv.shop/#services
     - title: "Price"
-      section: portfolio
+      url: https://www.gotv.shop/#portfolio
     - title: "About"
-      section: about
+      url: https://www.gotv.shop/#about
     - title: "Timeline"
-      section: timeline
+      url: https://www.gotv.shop/#timeline
     - title: "Free Trial"
-      section: team
+      url: https://www.gotv.shop/#team
     - title: "Download"
-      section: clients
+      url: https://www.gotv.shop/#clients
     - title: "Contact"
       section: contact
+    - title: "Channels"
+      url: https://www.gotv.shop/channel-list
 en-US:
   <<: *DEFAULT_EN
 en-CA:
