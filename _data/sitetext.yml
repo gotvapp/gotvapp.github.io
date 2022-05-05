@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bring the WORLD to you!
-    text: No matter where you are
+    title: No matter where you are
+    text: Bring the WORLD to you!
     button: Learn More
     buttonlink: "#services"
 
