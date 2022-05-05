@@ -1,23 +1,23 @@
 ---
-title: 3ヶ月(90日)視聴分
-subtitle: RMB 799
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Semi-Year Subscription
+subtitle: RMB 800
+image: assets/img/portfolio/01-full.jpg
+alt:
 
 caption:
-  title: 3ヶ月(90日)視聴分
-  subtitle: RMB 799
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Semi-Year Subscription
+  subtitle: RMB 800
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-3ヶ月(90日)の視聴分です。
+Semi-Year (6 Months) Subscription
 
-初めてご購入の方は、1週間のお試し期間があります（90日+7日）。
+Once Subscribed, customers will get 180 days + 7 days (Free Trial).
 
-Alipay、WeChat、Visa、Master、Bitcoin、およびその他の仮想通貨による支払いをサポートしています。
+Alipay、WeChat、Visa、Master、Bitcoin and other crypto currencies accepted
 
-支払いリンクについては営業担当にお問い合わせください
+Pls add our wechat to know more.
 
 {:.list-inline}
-- クレジットカード: Visa、Master
-- オンライン支払い: Alipay、Wechat
-- 仮想通貨: Bitcoin、ETH、USDTなど
+- Credit Card: Visa、Master
+- Online Payment: Alipay、Wechat
+- Crypto: Bitcoin、ETH、USDT etc.
