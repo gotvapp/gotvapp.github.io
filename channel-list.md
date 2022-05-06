@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 番組表
+title: Channels List
 ---
 # GOTV Channels List
 

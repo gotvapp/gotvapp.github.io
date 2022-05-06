@@ -26,7 +26,7 @@ en: &DEFAULT_EN
     - title: "Download"
       url: https://www.gotv.shop/#clients
     - title: "Contact"
-      section: contact
+      url: https://www.gotv.shop/#contact
     - title: "Channels"
       url: https://www.gotv.shop/channel-list
 en-US:
