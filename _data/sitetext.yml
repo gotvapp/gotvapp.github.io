@@ -91,7 +91,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Android"
-        url: https://ghproxy.com/https://github.com/gotvapp/gotvapp.github.io/releases/download/v2.0/GoTV_V2.apk
+        url: https://ghproxy.com/https://github.com/gotvapp/gotvapp.github.io/releases/download/v2.0/GoTV_V3.apk
         logo: assets/img/clients/androidlogo.png
       - title: "iOS"
         url: https://apps.apple.com/us/app/id1336045961
