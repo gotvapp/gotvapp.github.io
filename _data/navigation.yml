@@ -29,6 +29,8 @@ en: &DEFAULT_EN
       url: https://www.gotv.shop/#contact
     - title: "Channels"
       url: https://www.gotv.shop/channel-list
+    - title:"Upgrade"
+      url: https://www.gotv.shop/upgrade
 en-US:
   <<: *DEFAULT_EN
 en-CA:
