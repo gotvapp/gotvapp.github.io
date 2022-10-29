@@ -146,11 +146,6 @@ en: &DEFAULT_EN
         icon: "fab fa-cc-mastercard"
       - url: https://bitcoin.org
         icon: "fab fa-bitcoin"
-  upgrade:
-    title: Android Box Upgrade
-    text: This is only for Android Box Device
-    button: Upgrade Now
-    buttonlink: https://b2.gotv.shop/GoTV_V3.apk
 en-US:
   <<: *DEFAULT_EN
 en-CA:
