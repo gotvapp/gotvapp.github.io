@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Channels List
+title: Android Box Upgrade
 ---
 # Android Box Upgrade
 
