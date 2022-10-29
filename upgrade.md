@@ -8,4 +8,4 @@ title: Android Box Upgrade
 
 ### Click The Following Button To Upgrade
 
-[Upgrade Now](https://b2.gotv.shop/GoTV_V3.apk)
+### [Upgrade Now](https://b2.gotv.shop/GoTV_V3.apk)
